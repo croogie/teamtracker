@@ -26,6 +26,8 @@
   "bin": {
     "teamtracker": "lib/cli.js"
   },
+  "repository": "https://github.com/croogie/teamtracker/",
+  "bugs": "https://github.com/croogie/teamtracker/issues",
   "dependencies": {
     "chalk": "^2.4.2",
     "cosmiconfig": "^5.1.0",
